@@ -1,0 +1,14 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.reveal .slides .slide1 img{
+    position: absolute;
+    display: block;
+    left: 2%;
+    top: 5%;
+    width: 400px;
+    height: 350px;
+}
